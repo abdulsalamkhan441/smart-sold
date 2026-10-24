@@ -16,8 +16,8 @@ const manrope = FontManrope({
 });
 
 export const metadata: Metadata = {
-  title: "Carma Gramyk",
-  description: "Carma Gramyk helps families buy and sell with confidence.",
+  title: "Smart Sold Realty",
+  description: "Smart Sold Realty helps families buy and sell with confidence.",
   icons: {
     icon: "/logo.png",
     shortcut: "/logo.png",
